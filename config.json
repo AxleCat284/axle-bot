@@ -7,5 +7,21 @@
   },
   "api": {
 
+  },
+  "messages": {
+    "commandfailed": {
+      "error": "Command Failed somewhere... there should be an error code? please look for it <3",
+      "permsless": "You do not have permission to run this command.",
+      "bitchless": "You do not have permission to run this command. (get bitches)",
+      "serverless": "You do not have permission to run this command. or this command only works in the development server, https://discord.gg/Kuk7fUYtrT"
+  },
+  "discord": {
+    "default": "Axle-Bot",
+    "support": "Axle-Bot ~ Support",
+    "defaultbetter": "Axle Bot ~ private ~ by axle.coffee",
+    "owner": " axle.coffee ",
+    "sogayowner": " Made with ❤️ by axle.coffee ",
+    "icon": "https://i.imgur.com/hggczHP.png"
+}
   }
 }

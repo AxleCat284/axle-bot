@@ -2,8 +2,8 @@ const config = require("../../../config.json");
 
 
 module.exports = {
-    name: 'help',
-    description: 'Shows help menu',
+    name: 'axle',
+    description: 'default bot menu',
 
     
     execute: async (interaction, client, InteractionCreate) => {

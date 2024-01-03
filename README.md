@@ -1,14 +1,4 @@
-# SkyStats Development Bot Blueprint
-
-### This template can be used free of charge to any developer looking to make a bot. Though, it is designed for our systems!
-
-This bot has been featured in
-
-- SkyStats Discord
-- Hyperbolic
-- Cardboard
-- BetBoost Nitro Shop
-- And more!
+# Axle Bot
 
 # Requirements
 
@@ -38,15 +28,11 @@ This bot has been featured in
   - to debug simply type node ``./start/developer_start.js``
   - if everything works, have fun!
 
-# Credits
-
-- [DuckySoLucky](https://github.com/DuckySoLucky) for their [original template](https://github.com/DuckySoLucky/discord-bot-blueprint-v14) (it was missing multiple things)
-- a few others
 
 # License
 
-license is viewable in the license file
+**Miscellaneous Applications Usage Agreement**: Utilize this license for any project(s) not under the purview of the parent organization but still able to inherit the SkyStats Development License Terms. [Read more](https://github.com/SkyStats-Development/license/blob/main/Miscellaneous%20Applications).
 
 # Version
 
-- 3.0.4
+- 0
